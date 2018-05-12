@@ -1,0 +1,29 @@
+_repo: The-Ancient-Life-History-of-the-Earth--13-A-Comprehensive-Outline-of-the-Principles-and-Leadi__14279
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Nicholson, Henry Alleyne
+    alias: Nicholson, H. Alleyne (Henry Alleyne)
+    birthdate: 1844
+    deathdate: 1899
+    gutenberg_agent_id: '5444'
+    url: http://www.gutenberg.org/2009/agents/5444
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Alleyne_Nicholson
+description: ''
+gutenberg_issued: '2004-12-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14279'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Paleontology'
+- !lcc 'QE'
+title: "The Ancient Life History of the Earth\r\nA Comprehensive Outline of the Principles\
+  \ and Leading Facts of Palæontological Science"
+url: http://www.gutenberg.org/ebooks/14279
